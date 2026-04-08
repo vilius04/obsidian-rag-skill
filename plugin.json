@@ -1,0 +1,8 @@
+{
+  "name": "obsidian-rag",
+  "version": "1.0.0",
+  "description": "Build and maintain a lightweight RAG/wiki knowledge base that compiles raw documents into interlinked Obsidian wiki pages. Supports compile, query, lint, and output modes.",
+  "author": {
+    "name": "vilius04"
+  }
+}
